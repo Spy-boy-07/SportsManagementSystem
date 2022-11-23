@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572253853956",
+    "project_id": "smsappproject",
+    "storage_bucket": "smsappproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572253853956:android:cd9ea7c6e657af4bcfd851",
+        "android_client_info": {
+          "package_name": "com.spydison.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572253853956-romnufl0pqv365oo2lfililc1db6d56b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScu6BRZ3fC2vKKFjjxNasD9Sb8B8yAiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572253853956-romnufl0pqv365oo2lfililc1db6d56b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
